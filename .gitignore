@@ -1,0 +1,5 @@
+#!/usr/bin/env git
+
+venv
+main.py
+.idea
